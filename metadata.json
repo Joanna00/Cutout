@@ -1,0 +1,6 @@
+{
+  "name": "白底抠图",
+  "description": "精确去除图片白色背景，支持边缘羽化与手工画笔细节精修，一键导出透明通道 PNG",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
